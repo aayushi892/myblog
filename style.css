@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+
+hr{
+
+border-style: dotted;
+border-color: teal;
+border-width: 2px;
+width: 5%;
+}
+h1{
+       color: darkslategrey;
+
+}
+h3{
+    color: darkslategrey;
+}
